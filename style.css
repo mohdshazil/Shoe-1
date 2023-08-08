@@ -8,15 +8,18 @@
     height: 80vh;
     width: 80vw;
     margin: 10vh 10vw;
+    background: linear-gradient(to right, rgb(138, 35, 135), rgb(233, 64, 87), rgb(242, 113, 33)); --darkreader-inline-bgimage: linear-gradient(to right, #6a1c68, #991225, #ad4a0c)
 }
 .text{
     width: 47%;
     padding: 25px;
     font: bold;
     font-size: 20px;
+    color: white;
 }
 h1{
     padding: 25px;
+    color: white;
 }
 .shoe-1{
     width: 600px;
