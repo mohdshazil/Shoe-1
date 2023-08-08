@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    background: linear-gradient(to right, #8d2486, #d54a60, #f17021);
+    height: 80vh;
+    width: 80vw;
+    margin: 10vh 10vw;
+}
+.text{
+    width: 47%;
+    padding: 25px;
+    font: bold;
+    font-size: 20px;
+}
+h1{
+    padding: 25px;
+}
+.shoe-1{
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    left: 60vw;
+    bottom: 52vh;
+}
+.shoe-1:hover{
+    width: 900px;
+    height: 600px;
+    bottom: 20vh;
+    left: 30vw;
+}
