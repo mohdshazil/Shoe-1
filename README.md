@@ -1,4 +1,5 @@
-HOSTED LINK :- 
+HOSTED LINK :- https://mohdshazil.github.io/Shoe-1/
+
 ![Screenshot (75)](https://github.com/mohdshazil/Shoe-1/assets/129063461/fd83798b-8387-442a-9dbd-cf72695dba84)
 
 HTML TAGS:-
